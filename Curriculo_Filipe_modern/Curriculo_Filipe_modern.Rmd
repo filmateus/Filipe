@@ -57,7 +57,7 @@ tribble(
 ```{r}
 tribble(
  ~ Degree, ~ Year, ~ Institution, ~ Where,
-  'Técnidos de Análise de Dados', '2021-2022', "STRANS - Superintendência Municipal de Trânsito e Transportes", "Teresina-PI, Brasil",
+  'Técnico de Análise de Dados', '2021-2022', "STRANS - Superintendência Municipal de Trânsito e Transportes", "Teresina-PI, Brasil",
   'Estágio em Estátisca', '2022', "Escola bilíngue Bright Bee", "Teresina-PI, Brasil"
 ) %>%
   detailed_entries(Degree, Year, Institution, Where)
