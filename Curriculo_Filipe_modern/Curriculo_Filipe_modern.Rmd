@@ -25,8 +25,8 @@ library(vitae)
 # Sobre mim
 
  * Aprendendo constantemente a fazer análise de dados.
- * Realizei trabalhos, principalmente, com R. 
- * Possuo trabalhos em Python, PowerBi e pesquisa com SQL.
+ * Possuo trabalhos, principalmente, com R. 
+ * Trabalho liguagem em Python, PowerBi e pesquisa com SQL.
  * Automação de pesquisa com `Selenium` na linguagem pyhton
 
 # Educação
